@@ -25,5 +25,5 @@ As a data analysis intern, you are provided with the Profit and Loss statement o
     Create chats of other metrics you feel are important.
 
 This is what your dashboard should look like:
-[!Alt text](https://lh6.googleusercontent.com/1PGeZTc1vD2O8JCklvQbXQS3VrgSCyJxAlxaKBpIhLgkU00tQcUxj5tKN-IIRdXH--Va18EWEpHbMmB6cbA49pC9Sy58MkHEN8VxXwW4Eww3tOxelFFx_OVEqhZudakujwbAdX-4Nd3-oskj3w)
+![Alt text](https://lh6.googleusercontent.com/1PGeZTc1vD2O8JCklvQbXQS3VrgSCyJxAlxaKBpIhLgkU00tQcUxj5tKN-IIRdXH--Va18EWEpHbMmB6cbA49pC9Sy58MkHEN8VxXwW4Eww3tOxelFFx_OVEqhZudakujwbAdX-4Nd3-oskj3w)
 
